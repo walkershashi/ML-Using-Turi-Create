@@ -1,1 +1,1 @@
-# ML-Using-Turi-Create
+# Making the Machine Learn Using Turi Create
